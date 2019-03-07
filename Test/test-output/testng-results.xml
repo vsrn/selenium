@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28526" started-at="2019-03-07T07:08:30Z" finished-at="2019-03-07T07:08:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28526" started-at="2019-03-07T07:08:30Z" finished-at="2019-03-07T07:08:58Z">
+      <class name="example.NewTest">
+        <test-method status="PASS" signature="browser()[pri:0, instance:example.NewTest@6ad5c04e]" name="browser" is-config="true" duration-ms="12982" started-at="2019-03-07T12:38:30Z" finished-at="2019-03-07T12:38:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:example.NewTest@6ad5c04e]" name="verifyHomePageTitle" duration-ms="8368" started-at="2019-03-07T12:38:43Z" finished-at="2019-03-07T12:38:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="close()[pri:0, instance:example.NewTest@6ad5c04e]" name="close" is-config="true" duration-ms="676" started-at="2019-03-07T12:38:51Z" finished-at="2019-03-07T12:38:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:example.NewTest@6ad5c04e]" name="browser" is-config="true" duration-ms="2598" started-at="2019-03-07T12:38:52Z" finished-at="2019-03-07T12:38:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="verifyLoginPage()[pri:0, instance:example.NewTest@6ad5c04e]" name="verifyLoginPage" duration-ms="3255" started-at="2019-03-07T12:38:55Z" finished-at="2019-03-07T12:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method status="PASS" signature="close()[pri:0, instance:example.NewTest@6ad5c04e]" name="close" is-config="true" duration-ms="627" started-at="2019-03-07T12:38:58Z" finished-at="2019-03-07T12:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- example.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
