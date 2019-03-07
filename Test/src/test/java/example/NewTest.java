@@ -20,7 +20,6 @@ public class NewTest
 	 driver = new ChromeDriver(); 
 	}
 	
-	
 	@Test
 	public void verifyHomePageTitle() {     
 
