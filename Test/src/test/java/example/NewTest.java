@@ -10,7 +10,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class NewTest 
 {
-
 	WebDriver driver;
 
 	@BeforeMethod
